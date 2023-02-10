@@ -1,0 +1,12 @@
+ font-family: 'Ubuntu', sans-serif;
+
+ let songs=[
+
+    {songName:"Starry Night", filePath:   "filter.mp3", coverPath:"1.jpeg"} ,
+    {songName:"Filter", filePath:   "stn.mp3", coverPath:"cover2.jpg"} ,
+    {songName:"Hip", filePath:   "filter.mp3", coverPath:"cover3.jpg"} ,
+    {songName:"Mic drop", filePath:   "1.mp3", coverPath:"cover4.jpg"} ,
+    {songName:"Blood sweat and tears", filePath:   "2.mp3", coverPath:"cover5.jpeg"} ,
+    {songName:"Fire", filePath:   "3.mp3", coverPath:"cover1.jpg"} ,
+   
+]
